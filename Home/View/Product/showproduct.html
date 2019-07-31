@@ -1,0 +1,295 @@
+
+<!--头部-->
+<header>
+    
+    <div class="layout">
+    
+    <!--logo开始-->
+        <div class="logo"><a href="/" title="TPshop"><img src="<?php echo IMG_URL;?>TP-shop_logo.png" alt="TPshop"></a></div>
+    <!--logo结束-->
+    
+    <!-- 搜索开始-->
+        <include file="Home@Index:search"/>
+        <!-- 搜索结束-->
+
+
+        <div class="qr-code">
+            <img src="<?php echo STATIC_IMG_URL;?>qrcode_vmall_app01.png" alt="二维码" />
+            <p>扫一扫</p>
+        </div>
+    </div>
+</header>
+<!--头部-->
+
+<!-- 导航-开始-->
+	<div class="navigation">
+	<div class="layout">
+    	<!--全部商品-开始-->
+
+        <!--全部商品-结束-->
+        
+        <div class="ongoods">
+        	<ul class="navlist">
+                <li class="homepage"><a href="/"><span>首页</span></a></li>
+                <li class="page"><a href="/Home/Product/postproduct" ><span>发布订单</span></a></li>
+                <li class="page"><a href="/Home/Product/productlist" ><span>商品列表</span></a></li>
+        	</ul>
+        </div>
+    </div>
+</div>
+<!-- 导航-结束-->
+
+<div class="layout">
+    <div class="breadcrumb-area">
+        <a href="/">首页</a>
+        >>
+            <a  href="/Home/Product/productlist?category={$product.category}">{$product.catego}</a>
+            >>
+        <span>商品详情页</span>
+    </div>
+        <div class="layout pa-to-10">            
+            <!--商品图片轮播-->            
+            <div class="left-area">
+              <div class="left-area-tb">
+               <div class="pro-gallery-img">
+                  <div class="jqzoom" style="position: absolute;top: 50%;height: 400px;margin-top: -200px;overflow: hidden;width:95%;text-align: center;">
+                      <img id="zoomimg" src="{$product.img}"  id="bigImage"  alt=""/>
+                  </div>
+              </div>
+              </div>
+            </div>      
+            <!--商品图片轮播 end-->        
+                
+            <div class="right-area-num">
+                <div class="right-area">
+                    <div class="right-area-le30">
+                        <h1>{$product.title}</h1>
+                    </div>
+                </div>
+                <div class="right-area ma-to--1">
+                    
+                <!--商品促销 start--> 
+
+
+                    </if>
+                    <!--商品促销 end-->               
+                    <div class="right-area-le30 pa-3-0-0-30">
+                        
+                        <div class="pro-promotions-area">
+                            <table class="promotions-tab" width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tr>
+                                <td width="70px" align="right">价&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;格：</td>
+                                <td>
+                                    <p class="co-red fo-si-24 ma-le-6">
+                                        ￥<span class="co-red fo-si-24" id="goods_price">{$product.price}</span>
+                                    </p>                                    
+                                </td>
+                              </tr>
+
+                              <tr>
+                                <td align="right">商品编号：</td>
+                                <td>
+                                    <p class=" ma-le-6">{$product.productid} <a onClick="" style="color:#00F;">收藏</a></p>
+                                    <!--用户评价-end-->                           
+                                </td>
+                              </tr>
+
+                              <tr>
+                                <td align="right">运&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;费：</td>
+                                <td><p class="ma-le-6">满99免运费</p></td>
+                              </tr>
+                              <tr>
+                                <td align="right">服&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;务：</td>
+                                <td><p class="ma-le-6">由校园二手商城负责发货，并提供售后服务</p></td>
+                              </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <form name="buy_goods_form" method="post" id="buy_goods_form" >
+                <div class="right-area he315 ma-to--1">
+                    <div class="right-area-le30 pa-3-0-0-30">
+                        <div class="pro-promotions-area">
+                            <table class="promotions-tab he40-tr-td" width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <foreach name="filter_spec" item="v" key="k" > 
+                              <tr>
+                                <td align="right">尺寸：</td>
+                                <td>
+                                    <ul class="choice-colol ma-le-6">
+                                        <li>
+                                            <div class="color-sku-fant">
+                                                <div class="sku  sku-bo-blo">
+                                                    <a class="choice-size" onClick="switch_spec(this)">55英寸4K</a>
+                                                    <input type="radio" style="display:none;" name="" value=""/>
+                                                    <s></s>
+                                                </div>
+                                                <p></p>
+                                            </div>                                            
+                                        </li>
+                                    </ul>
+                                </td>
+                              </tr>
+                            </foreach>
+                                <tr>
+                                    <td width="70px" align="right">分类：</td>
+                                    <td>{$product.catego}</td>
+                                </tr>
+                              <tr>
+                                <td width="70px" align="right">联系人：</td>
+                                <td>{$product.contacts}</td>
+                              </tr>
+                              <if condition="empty($filter_spec)">
+                              <tr>
+                                <td align="right" >联系电话：</td>
+                                <td>{$product.phone}</td>
+                              </tr>
+                              </if>
+                            </table>
+                        </div>
+                        <div class="join-a-shopping-cart fl"><!-- location.href='{:U('Home/Cart/cart')}-->
+                            <a class="jrgwc-shopping-img jrgwc-shopping-img2" href="/Home/Pay/pay?productid={$product.productid}" >
+                                <span>立即购买</span>
+                            </a>
+                        </div>
+
+                        
+                    </div>
+                </div>
+                    <input type="hidden" name="goods_id" value="{$goods.goods_id}" />
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <div style="display:none;" id="shopdilog">
+            <div class="ui-popup ui-popup-modal ui-popup-show ui-popup-focus">
+            <div i="dialog" class="ui-dialog">
+            <div class="ui-dialog-arrow-a"></div>
+            <div class="ui-dialog-arrow-b"></div>
+            <table class="ui-dialog-grid">
+                <tbody>
+                <tr>
+                    <td i="body" class="ui-dialog-body">
+                        <div i="content" class="ui-dialog-content" id="content:1459321729418" style="width: 450px; height: auto;">
+                            <div id="addCartBox" class="collect-public" style="display: block;">
+                                <div class="colect-top">
+                                    <i class="colect-icon"></i>
+                                    <!--<i class="colect-fail"></i>-->
+                                    <div class="conect-title">
+                                        <span>添加成功</span>
+                                        <div class="add-cart-btn fn-clear">
+                                            <a href="javascript:;" class="ui-button ui-button-f80 fl go-shopping">继续购物</a>
+                                            <a href="{:U('Home/Cart/index')}" class="ui-button ui-button-122 fl">去购物车结算</a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="watch">
+                                    <span>购买此宝贝的用户还购买了：</span>
+                                    <ul class="fn-clear buy-list">              
+                                    <li><a href="http://www.tp-shop.cn/item/201512CM310001099" class="watch-img" target="_blank"><img src="http://img01.fn-mart.com/C/item/2015/1231/201512C310000310/201512C310000245_134377335_200x200.jpg" alt=""></a><h4><a href="http://www.tp-shop.cn/item/201512CM310001099" target="_blank">巨圣冬季2015新款马丁靴女 中跟粗跟保暖英伦骑士风短靴流苏套筒圆头L854174068</a></h4><p><q class="fn-rmb">¥</q><strong class="fn-rmb-num">89</strong></p></li><li><a href="http://www.tp-shop.cn/item/201504CM150040438" class="watch-img" target="_blank"><img src="http://img02.fn-mart.com/C/item/2015/0415/201504C150036513/201504C150002841_817918286_200x200.jpg" alt=""></a><h4><a href="http://www.tp-shop.cn/item/201504CM150040438" target="_blank">百依恋歌 夏装新款大码显瘦短袖T恤女士韩版图案棉打底衫</a></h4><p><q class="fn-rmb">¥</q><strong class="fn-rmb-num">89</strong></p></li><li><a href="http://www.tp-shop.cn/item/201505CM210000863" class="watch-img" target="_blank"><img src="http://img03.fn-mart.com/C/item/2015/0521/201505C210000474/_328370304_200x200.jpg" alt=""></a><h4><a href="http://www.tp-shop.cn/item/201505CM210000863" target="_blank">洁婷透气双U日用纤巧棉柔卫生巾尝4片/包</a></h4><p><q class="fn-rmb">¥</q><strong class="fn-rmb-num">4.2</strong></p></li><li><a href="http://www.tp-shop.cn/item/201508CM240002876" class="watch-img" target="_blank"><img src="http://img04.fn-mart.com/C/item/2015/0824/201508C240000788/201508C240000750_047866800_200x200.jpg" alt=""></a><h4><a href="http://www.tp-shop.cn/item/201508CM240002876" target="_blank">美纳福 真空收纳压缩袋 2特大4大4中2手卷送电泵</a></h4><p><q class="fn-rmb">¥</q><strong class="fn-rmb-num">135</strong></p></li></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td i="footer" class="ui-dialog-footer" style="display: none;">
+                        <div i="statusbar" class="ui-dialog-statusbar" style="display: none;"></div>
+                        <div i="button" class="ui-dialog-button"></div>
+                    </td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+       </div>
+    </div>
+    <div class="layout ma-to-20 ov-hi">
+
+        <div class="ov-hi fr" style="width:100%">
+            <div class="comm-param">
+                <div class="parame-title">
+                    <div class="par-titles co-grey">
+                        <ul class="commodity-xq tab_li">
+                            <li class="current cliks" onClick="switch_tab(this,'tab1')">
+                                <a>商品详情</a>
+                            </li>
+                            <li class="cliks" onClick="switch_tab(this,'tab2')" id="commect">
+                                <a>用户留言</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                    <!---商品详情-->
+                <div class="parame-bott cliks-bn" style="display:block" id="tab1">
+                        <div class="commodity-num pro-feature-area">
+                            <div clss="pro-disclaimer-area ma-to-20">
+                            {$product.introduction}
+                        </div>
+                    </div>
+                </div>
+                <div class="parame-bott ov-hi" style="display:none"  id="tab2">
+                    <div class="evaluation-top fo-fa di-in-bl">
+                        <style>
+
+
+
+                        </style>
+                        <div class="cmt-list">
+                            <if condition="($comment neq null) ">
+                                <volist name="comment" id="vo">
+                                    <div class="cmt-item clearfix" data-cmtid="1632212923" data-nick="t*********9" data-userid="0">
+                                        <a href="javascript:;" target="_blank" class="cmt-reply-user">
+                                            <img src="//wwc.alicdn.com/avatar/getAvatar.do?userId=0&amp;width=30&amp;height=30&amp;type=sns" alt="">
+                                        </a>
+                                        <div class="cmt-cont-wrap">
+                                            <p class="cmt-cont">
+                                                <span class="cmt-user-name">{$vo.nickname}</span>
+                                                <span class="cmt-cont-text">回复@{$vo.to_nickname}:{$vo.comment}</span>
+                                                <a href="##" style="float: right;" onclick="huifu({$vo.commentid},'{$vo.nickname}')">回复</a>
+                                            </p>
+                                            <p class="cmt-date">2017-02-04 13:37:25</p>
+                                        </div>
+                                    </div>
+                                </volist>
+                                <div>{$page}</div>
+                            </if>
+
+                            <h3 class="fastpostreturn"><span>发表回复</span></h3>
+                            <p id="reply" style="height:30px;line-height: 40px;"></p>
+                            <form action="/Home/Comment/docomment" onsubmit="return ajaxcomment(this)" name="commentform" id="commentform">
+                                <textarea class="huifuk_area" id="comment" name="comment"></textarea>
+                                <input type="hidden" name="productid" value="{$product.productid}">
+                                <input type="hidden" name="commentid" id="commentid" value="">
+                                <input class="huifuk_btn jrgwc-shopping-img jrgwc-shopping-img2" type="submit" value="发表评论">
+                            </form>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+<script>
+    function switch_tab(cur,tab)
+    {
+        $("#tab1,#tab2,#tab3,#tab4").hide(); // 先全部隐藏
+        $("#"+tab).show();  // 再显示其中一个
+        $("ul.tab_li li").removeClass("current"); // 先全部样式去除
+        $(cur).addClass("current"); //  单独的给当前点击这个加上
+    }
+
+    function huifu(id,nickname){
+        $("#reply").text("回复 @"+nickname+" :");
+        $("#commentid").val(id);
+    }
+
+
+</script>
+<?php if(I('p')>1) { ?>
+<script>$('#commect').click();</script>
+<?php } ?>
+
+
+

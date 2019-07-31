@@ -1,0 +1,29 @@
+/*注册*/
+.box_bg {border: 1px solid #DCDCDC;background: #fff;}
+.dib{display: inline-block;}
+.c_f8{color: #f84e4e;}
+.btn{display: inline-block; padding: 0px 15px; margin-bottom: 0;height: 40px;line-height: 40px; font-size: 14px; font-weight: normal; text-align: center; cursor: pointer; background-image: none; border: 1px solid #c9c9c9; border-radius: 4px;}
+.si-form-field {display: inline-block;padding: 0 10px;font-size: 14px;height: 36px;line-height: 36px;color: #555555;vertical-align: middle;background-color: #fff;background-image: none;border: 1px solid #ccc;border-radius: 0;
+    -webkit-appearance: none;
+    -webkit-transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out, -webkit-box-shadow 0.15s ease-in-out;}
+.si-form-field:focus {outline: 0;}
+.si-form-field:focus {background-color: #fefffe;border-color: #3bb4f2;outline: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 5px rgba(59, 180, 242, 0.3);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 5px rgba(59, 180, 242, 0.3);}
+.page_register_container{padding: 100px 0 150px 0;}
+.register_box{width: 695px;min-height: 350px;margin: 50px auto;padding: 40px 0;}
+.register_left{width: 475px;border-right:1px solid #DCDCDC;}
+.register_left tr{}
+.register_left tr td{padding: 8px 0;}
+.register_left tr td:first-child{width: 100px;padding-right: 10px;text-align: right;}
+.register_left{}
+.yzm_btn{width: 100px;height: 36px;line-height: 36px;padding: 0;text-align: center;border-radius: 2px;background: #d81b24;color: #fff;}
+.yzm_btn:hover{background: #e32f2f;color: #fff;}
+.register_btn{width: 315px;height: 36px;line-height: 36px;padding: 0;text-align: center;background: #d81b24;color: #fff;border:none;cursor: pointer;}
+.register_btn:hover{background: #e32f2f;color: #fff;}
+.register_right{margin-top: 100px;margin-right: 60px;text-align: center;}
+.register_right p:first-child{margin-bottom: 5px;}
+.register_right p{}

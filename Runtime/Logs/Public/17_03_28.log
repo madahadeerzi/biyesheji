@@ -1,0 +1,2925 @@
+[ 2017-03-28T14:07:29+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:07:29+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:07:30+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000285s ]
+
+[ 2017-03-28T14:07:30+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-28T14:07:30+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-28T14:07:31+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+
+[ 2017-03-28T14:07:31+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-03-28T14:07:31+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:09+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2017-03-28T14:08:09+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000425s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:09+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000612s ]
+
+[ 2017-03-28T14:08:09+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000506s ]
+
+[ 2017-03-28T14:08:09+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000832s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:09+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-28T14:08:10+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-28T14:08:10+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:20+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+
+[ 2017-03-28T14:08:20+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:20+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-03-28T14:08:20+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-03-28T14:08:20+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000714s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000807s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:20+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2017-03-28T14:08:21+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-28T14:08:21+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000545s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:33+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-03-28T14:08:33+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000697s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000761s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:33+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+
+[ 2017-03-28T14:08:33+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-03-28T14:08:33+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000961s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:08:33+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+
+[ 2017-03-28T14:08:34+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-28T14:08:34+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000448s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001052s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001134s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:09:35+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2017-03-28T14:09:35+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:09:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2017-03-28T14:09:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-28T14:09:35+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:09:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-28T14:09:36+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-28T14:09:36+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:09:36+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+
+[ 2017-03-28T14:09:36+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000909s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000980s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:09:37+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-28T14:09:37+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-28T14:09:37+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000641s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:09:37+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-03-28T14:09:37+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-28T14:09:38+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:16:24+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-03-28T14:16:24+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:16:24+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2017-03-28T14:16:24+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:16:24+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-28T14:16:25+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+
+[ 2017-03-28T14:16:25+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-28T14:16:25+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000957s ]
+
+[ 2017-03-28T14:16:25+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:16:44+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-03-28T14:16:44+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:16:44+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-28T14:16:44+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-28T14:16:44+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:16:44+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2017-03-28T14:16:44+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+
+[ 2017-03-28T14:16:45+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-28T14:16:45+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001197s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001292s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:30+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000576s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:31+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001052s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000661s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000311s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000733s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001214s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-03-28T14:17:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:33+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+
+[ 2017-03-28T14:17:33+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:33+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:33+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:41+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+
+[ 2017-03-28T14:17:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000686s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-28T14:17:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-03-28T14:17:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000406s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001045s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+
+[ 2017-03-28T14:17:42+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000535s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:17:43+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:40+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-03-28T14:18:40+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000313s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:40+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-03-28T14:18:40+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+
+[ 2017-03-28T14:18:40+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+
+[ 2017-03-28T14:18:40+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:40+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+
+[ 2017-03-28T14:18:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:41+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-03-28T14:18:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000744s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000803s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000914s ]
+
+[ 2017-03-28T14:18:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+
+[ 2017-03-28T14:18:41+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002068s ]
+
+[ 2017-03-28T14:18:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-28T14:18:42+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:57+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+
+[ 2017-03-28T14:18:57+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:57+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+
+[ 2017-03-28T14:18:57+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-28T14:18:57+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2017-03-28T14:18:57+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:18:57+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2017-03-28T14:18:57+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-03-28T14:18:58+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000461s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000464s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:41+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:42+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000681s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-28T14:19:54+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:19:55+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000599s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-28T14:20:35+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000512s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000398s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000427s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000501s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000293s ]
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-03-28T14:20:36+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000631s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:37+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:20:38+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000385s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:22:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-28T14:22:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:22:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-03-28T14:22:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-03-28T14:22:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-03-28T14:22:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:22:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+
+[ 2017-03-28T14:22:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-03-28T14:22:33+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000486s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:23:48+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-28T14:23:48+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:23:48+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:23:48+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000344s ]
+
+[ 2017-03-28T14:23:48+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+
+[ 2017-03-28T14:23:49+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-03-28T14:23:49+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+
+[ 2017-03-28T14:23:49+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-03-28T14:23:49+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000791s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000785s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:01+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-28T14:26:01+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:01+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-28T14:26:01+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:01+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-28T14:26:01+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-03-28T14:26:01+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000670s ]
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000315s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000616s ]
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+
+[ 2017-03-28T14:26:02+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000607s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:03+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-03-28T14:26:03+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:03+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+
+[ 2017-03-28T14:26:32+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-03-28T14:26:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+
+[ 2017-03-28T14:26:32+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+
+[ 2017-03-28T14:26:32+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-28T14:26:33+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000450s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:33+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+
+[ 2017-03-28T14:26:33+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:35+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000329s ]
+
+[ 2017-03-28T14:26:35+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-03-28T14:26:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+
+[ 2017-03-28T14:26:35+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-28T14:26:35+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000320s ]
+
+[ 2017-03-28T14:26:36+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+
+[ 2017-03-28T14:26:36+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001286s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001441s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T14:26:36+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:27:29+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:27:29+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000714s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:27:29+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:27:29+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+
+[ 2017-03-28T15:27:30+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000793s ]
+
+[ 2017-03-28T15:27:30+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-28T15:27:30+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+
+[ 2017-03-28T15:27:30+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-03-28T15:36:55+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000464s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:36:55+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:36:55+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000859s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000921s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:36:55+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2017-03-28T15:36:56+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-03-28T15:36:56+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000445s ]
+
+[ 2017-03-28T15:36:56+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+
+[ 2017-03-28T15:36:56+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000609s ]
+
+[ 2017-03-28T15:37:02+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000302s ]
+
+[ 2017-03-28T15:37:02+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000475s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:37:02+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000396s ]
+
+[ 2017-03-28T15:37:02+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+
+[ 2017-03-28T15:37:02+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-03-28T15:37:02+08:00 ] 127.0.0.1 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+
+[ 2017-03-28T15:37:02+08:00 ] 127.0.0.1 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000342s ]
+
+[ 2017-03-28T15:37:03+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000496s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:37:03+08:00 ] 127.0.0.1 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000499s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:06+08:00 ] 192.168.1.131 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+
+[ 2017-03-28T15:44:06+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000412s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:06+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-03-28T15:44:06+08:00 ] 192.168.1.131 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-03-28T15:44:07+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000583s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:07+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+
+[ 2017-03-28T15:44:07+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000764s ]
+
+[ 2017-03-28T15:44:07+08:00 ] 192.168.1.131 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2017-03-28T15:44:07+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:38+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000345s ]
+
+[ 2017-03-28T15:44:38+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-28T15:44:38+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000435s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:38+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-28T15:44:38+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000373s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:38+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+
+[ 2017-03-28T15:44:38+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+
+[ 2017-03-28T15:44:39+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:41+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+
+[ 2017-03-28T15:44:41+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000527s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:41+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+
+[ 2017-03-28T15:44:41+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-28T15:44:41+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000423s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000415s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000375s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-03-28T15:44:42+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000409s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000350s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000455s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000310s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000460s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:43+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000626s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000414s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000531s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000449s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000362s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000467s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000429s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000411s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000441s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000306s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000432s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+
+[ 2017-03-28T15:44:44+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000447s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000296s ]
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000294s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000567s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+
+[ 2017-03-28T15:44:45+08:00 ] 192.168.1.144 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000646s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000482s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000764s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000975s ]
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+
+[ 2017-03-28T15:47:04+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:47:05+08:00 ] 192.168.1.131 /Public/upload/banner/2015/11-04/563a01ccb5dc9.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+
+[ 2017-03-28T15:47:05+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/104/goods_thumb_104_180_180.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000612s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:47:05+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-01/56d539e55544a.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+
+[ 2017-03-28T15:47:05+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-01/56d5391451968.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-03-28T15:47:05+08:00 ] 192.168.1.131 /Public/upload/banner/2015/11-05/563b3e5d8568d.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+
+[ 2017-03-28T15:47:05+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/1/goods_thumb_1_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000921s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000990s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:47:05+08:00 ] 192.168.1.131 /Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Upload
+
+[ 2017-03-28T15:47:05+08:00 ] 192.168.1.131 /Public/upload/ad/2016/03-11/56e29344381c4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+

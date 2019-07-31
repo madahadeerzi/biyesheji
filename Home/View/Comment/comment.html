@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<include file='Home@User:public' />
+
+<table class="commentlist">
+
+    <tr>
+        <th>用户</th>
+        <th>内容</th>
+        <th>时间</th>
+    </tr>
+    <foreach name="commentlist" item="vo"  >
+        <tr>
+            <td>{$vo.nickname}</td>
+            <td><a href="/Home/Product/showproduct?productid={$vo.productid}"}>{$vo['status']?'':'【未读】'}{$vo.comment}</a></td>
+            <td>{:date('Y-m-d H:i:s',$vo['createtime'])}</td>
+        </tr>
+
+    </foreach>
+</table>
+</body>
+</html>

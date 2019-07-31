@@ -1,0 +1,78 @@
+
+<!--最顶部-->
+
+    <div class="order-header">
+        <div class="layout after">
+            <div class="fl">
+                <div class="logo pa-to-36 wi345">
+                    <a href="/">
+                        <img src="/Public/images/TP-shop_logo.png" alt=""></a>
+                </div>
+            </div>
+            <div class="fr">
+                <div class="pa-to-36 progress-area">
+                    <div class="progress-area-wd" style="display:none">我的购物车</div>
+                    <div class="progress-area-tx" style="display:none">填写核对订单信息</div>
+                    <div class="progress-area-cg">成功提交订单</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="layout after-ta order-ha">
+        <div class="erhuh"> <i class="icon-succ"></i>
+            <h3>订单提交成功，请您尽快付款！</h3>
+            <p class="succ-p">
+                订单号：&nbsp;&nbsp;{$product.productid}&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;
+            付款金额（元）：&nbsp;&nbsp; <b>{$product.price}</b>
+                &nbsp; <b>元</b>
+            </p>
+            <div class="succ-tip">
+                请您在&nbsp;&nbsp;
+                <b> 10分钟之内</b>
+                &nbsp;完成支付，否则订单将自动取消
+            </div>
+        </div>
+
+        <form action="/Home/Pay/dopay?productid={$product.productid}" method="post" name="cart4_form" id="cart4_form">
+            <div class="orde-sjyy">
+                <h3 class="titls">选择支付方式</h3>
+                <div class="bsjy-g">
+                    <dl>
+                        <dd>
+
+                            <div class="order-payment-area">
+                                <div class="dsfzfpte">
+                                    <b>选择支付方式</b>
+                                </div>
+                                <div class="po-re dsfzf-ee">
+                                    <ul>
+                                        <li>
+                                            <div class="payment-area">
+                                                <input type="radio" id="input-ALIPAY-1" value="pay_code={$v['code']}" class="radio vam" name="pay_radio" >    
+                                                <label for="">
+                                                    <img src="/Public/images/icon_pay_zhifubao.jpg" width="120" height="40" onClick="change_pay(this);" />    
+                                                </label>
+                                            </div>
+                                        </li>
+                                        <li>
+                                            <div class="payment-area">
+                                                <input type="radio" id="input-ALIPAY-1" value="pay_code={$v['code']}" class="radio vam" name="pay_radio" >    
+                                                <label for="">
+                                                    <img src="/Public/images/icon_pay_weixin.jpg" width="120" height="40" onClick="change_pay(this);" />    
+                                                </label>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                    </dl>
+                    <div class="order-payment-action-area">
+                        <input class="button-style-5 button-confirm-payment" type="submit" value="确认支付" >
+                    </div>
+                </div>
+            </div>
+
+        </form>
+    </div>
+
+<!--footer开始-->

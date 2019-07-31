@@ -1,0 +1,18 @@
+<div class="searchBar">
+    <div class="searchBar-form">
+        <form name="sourch_form" id="sourch_form" method="post" action="/Home/Product/productlist">
+            <select name="category" class="select1" >
+                <option value="0">所有</option>
+                <volist name="category" id="vo">
+                    <option value="{$vo.id}">{$vo.category}</option>
+                </volist>
+                <!--<option value="1">电子产品</option>-->
+                <!--<option value="2">生活用品</option>-->
+                <!--<option value="3">情趣用品</option>-->
+                <!--<option value="4">二手书本</option>-->
+            </select>
+            <input type="text" class="text" name="q" id="q" value=""  placeholder="  搜索关键字"/>
+            <input type="button" class="button" value="搜索" onclick="if($.trim($('#q').val()) != '') $('#sourch_form').submit();"/>
+        </form>
+    </div>
+</div>

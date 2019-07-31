@@ -1,0 +1,238 @@
+[ 2017-04-07T12:53:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:53:53+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:53:59+08:00 ] 127.0.0.1 /Home/Product/productlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000214s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:54:06+08:00 ] 127.0.0.1 /Home/Product/productlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:55:12+08:00 ] 127.0.0.1 /Home/Product/productlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000216s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:55:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:55:36+08:00 ] 127.0.0.1 /Home/Product/postproduct
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000229s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:55:38+08:00 ] 127.0.0.1 /Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:55:38+08:00 ] 127.0.0.1 /Home/Verifyimg/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:55:52+08:00 ] 127.0.0.1 /Home/User/register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000241s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:56:02+08:00 ] 127.0.0.1 /Home/User/doreg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000298s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0048s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `comment` WHERE `touserid` = null AND `status` = 0 LIMIT 1   [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `user` WHERE `username` = 'huangsijie' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-04-07T12:56:50+08:00 ] 127.0.0.1 /Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:56:50+08:00 ] 127.0.0.1 /Home/Verifyimg/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:56:58+08:00 ] 127.0.0.1 /Home/User/dologin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000316s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0027s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `comment` WHERE `touserid` = null AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0025s ]
+SQL: SELECT * FROM `user` WHERE `username` = 'qwelkj' LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-04-07T12:56:58+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:57:00+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:57:18+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:57:18+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000224s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:57:19+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:57:20+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:57:21+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000220s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:57:29+08:00 ] 127.0.0.1 /Home/Comment/comment2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000233s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:57:32+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:58:54+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T12:58:57+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:01:58+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:02:00+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000225s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:02:02+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000234s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:02:15+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:02:16+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000227s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:02:16+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000223s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:02:17+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:02:33+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000235s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:03:19+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000221s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:03:20+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:03:21+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000226s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+
+[ 2017-04-07T13:03:21+08:00 ] 127.0.0.1 /Home/User/center
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000222s ]
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' C:\phpstudy\WWW\Home\Conf\config.php 第 18 行.
+

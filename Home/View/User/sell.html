@@ -1,0 +1,95 @@
+
+<include file='Home@User:public' />
+    <div class="fr wi940">
+        <div class="myhome-welcome pa-to-20">
+            <div class="fl myhome-tx">
+                <div class="w-img"><img src="/Public/images/not_adv.jpg" alt=""></div>
+                <div class="w-vip po-ab"><i class="w-v0"></i></div>
+            </div>
+            <div class="ov-hi ma-le-158">
+                <h2 class="n-name">{:session('user')['nickname']}，欢迎您！</h2>
+                <div class="w-info">
+                    <span>我的余额：&nbsp;<em><a href="">0</a></em></span>
+                    <span>等级：注册会员</span>
+                    <span>
+                        <span style="display: none;"><a class="link-non-validated" href="">已验证手机</a></span>
+                        <a class="link-non-validated2" href="{:U('Home/User/mobile_validate',array('step'=>1))}">未验证手机</a>
+                    </span>
+                    <span>
+                        <if condition="$user['email_validated'] eq 1">
+                            <span><a class="link-non-validated" href="">已验证邮箱</a></span>
+                            <else/>
+                            <a style="display: none;" class="link-non-validated2" href="{:U('Home/User/email_validate',array('step'=>1))}">未验证邮箱</a>
+                        </if>
+                    </span>
+                    <span><a class="link-non-validated" href="">未实名认证</a></span>
+                    <span>优惠券&nbsp;<em><a href="">1 </a></em>&nbsp;张</span>
+                    <span>站内信&nbsp;<em><a href="">0</a></em>&nbsp;条</span>
+                </div>
+                <div class="w-ple pa-to-10">
+                    <dl>
+                        <dt>我的特权：</dt>
+                        <dd><a href=""><img src="/Public/Static/images/icon_privilege_vip_small_light.png"/></a></dd>
+                        <dd><a href=""><img src="/Public/Static/images/icon_privilege_v_small_light.png"/></a></dd>
+                        <dd><a href=""><img src="/Public/Static/images/icon_privilege_yh_small_light.png"/></a></dd>
+                        <dd><a href=""><img src="/Public/Static/images/icon_privilege_vipDay_small_gray.png"/></a></dd>
+                    </dl>
+                </div>
+            </div>
+
+
+            <div class="bs-le">
+                <div class="first">
+                    <ul>
+                        <volist name="productlist" id="vo">
+                            <li class="sellers" style="width: 100%">
+                                <div class="best">
+                                    <div class="best-about">
+                                        <div class="best_img" style="margin-top:50px; height:220px;">
+                                            <a href="/Home/Product/showproduct?productid={$vo.productid}"><img src="{$vo.img}" style="width:180px; height:180px;"/></a>
+                                        </div>
+                                        <div class="best_name">
+                                            <a href="/Home/Product/showproduct?productid={$vo.productid}">
+                                                <span>{$vo.title}</span>
+                                            </a>
+                                        </div>
+                                        <div class="best_Introduction">
+                                            <div class="intr-t">{:mb_substr(strip_tags($vo['introduction']),0,32)}</div>
+
+                                        </div>
+                                        <div class="productstatus">
+                                            {$vo.statusname}
+                                        </div>
+                                        <div class="price">
+                                            <em>￥{$vo.price}</em>
+                                        </div>
+                                        <if condition="$vo.status eq 1 ">
+                                            <div class="imm-button" style="margin-right: 10px;">
+                                                <a href="/Home/Product/updateproduct?productid={$vo.productid}"><span>我要修改</span></a>
+                                            </div>
+
+                                            <div class="imm-button">
+                                            <a href="/Home/Product/delproduct?productid={$vo.productid}"><span>我要删除</span></a>
+                                            </div>
+                                            <elseif condition="$vo.status eq 3"/>
+                                            <div class="imm-button">
+                                                <a href="/Home/Pay/deliver?productid={$vo.productid}"><span>我要发货</span></a>
+                                            </div>
+                                        </if>
+
+
+                                    </div>
+                                </div>
+                            </li>
+                        </volist>
+
+
+                    </ul>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+

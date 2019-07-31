@@ -1,0 +1,139 @@
+
+<!--最顶部-->
+
+<div class="order-header">
+    <div class="layout after">
+        <div class="fl">
+            <div class="logo pa-to-36 wi345">
+                <a href="/">
+                    <img src="/Public/images/TP-shop_logo.png" alt=""></a>
+            </div>
+        </div>
+        <div class="fr">
+            <div class="pa-to-36 progress-area">
+                <div class="progress-area-wd" style="display:none">我的购物车</div>
+                <div class="progress-area-tx" style="display:block">填写核对订单信息</div>
+                <div class="progress-area-cg" style="display:none">成功提交订单</div>
+            </div>
+        </div>
+    </div>
+</div>
+<style>
+    /*.address tr td { border:#F00 solid 1px; }*/
+    /*没选中的 收货地址*/
+    .order-address-list table{background-color:inherit; border: 0px solid #CCC;}
+    .order-address-list .default{visibility:hidden;}
+    /*选中的 收货地址*/    
+    .address_current{ background-color:#fffde6; border: 1px solid #fadccf;} 
+    .address_current .default{visibility:visible;}          
+</style>
+<form action="/Home/Pay/dodeliver?productid={$product.productid}" name="pay" id="cart2_form" method="post">
+    <div class="layout be-table fo-fa ma-bo-45">
+        <div class="con-info">
+            <div class="con-y-info ma-bo-35">
+
+                <div id="ajax_address">
+                    <!--默认选中的地址-->                
+                    <div class="order-address-list address_current">
+                        <table width="100%" cellspacing="0" cellpadding="0" border="1" class="address">
+                            <tbody>
+
+                                <tr>
+                                    <td width="60" class="default"> <i></i>
+                                    </td>
+                                    <td width="60" class="co-red default">寄送至</td>
+
+                                    <td width="160" class="consignee"> <b>收货人:{$product.buyname}</b>
+                                    </td>
+                                    <td width="460" class="address2">
+                                        <span>地址:{$product.address}</span>
+                                    </td>
+                                    <td width="200" class="mobile">
+                                        <span>电话：{$product.buyphone}</span>
+                                    </td>
+                                    <td width="200" class="mobile">
+                                        <span>时间：{:date('Y-m-d H:i:s',$product['createtime'])}</span>
+                                    </td>
+
+                                </tr>
+
+                            </tbody>
+                        </table>
+                    </div>
+
+
+                </div>
+
+            </div>
+
+        </div>
+        <div class="sc-area">
+            <div class="dt-order-area">
+                <div class="order-pro-list">
+                    <div class="order-pro-list">
+                        <div class="yxspy">
+                            <div class="hv">您购买的以下商品</div>
+                            <div class="bv">
+                                <table border="0" cellpadding="0" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th class="tr-pro">商品</th>
+                                            <th class="tr-price">单价（元）</th>
+                                            <th class="tr-quantity">数量</th>
+                                            <th class="tr-subtotal">小计（元）</th>
+                                        </tr>
+                                    </thead>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="leiliste">
+                            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tbody>
+                                    <tr>
+                                        <td class="tr-pro">
+                                            <ul class="pro-area-2">
+                                                <li style="text-align:center;">
+                                                  <a title="{$product.title}"  href="/Home/Product/showproduct?productid={$product.productid}" seed="item-name" >{$product.title}</a>
+                                                </li> 
+                                             </ul>
+                                         </td>
+                                        <!-- 预付订金商品的价格为空 -->
+                                        <td class="tr-price te-al">¥{$product.price}</td>
+
+                                        <td class="tr-quantity te-al">1</td>
+                                        <td rowspan="1" class="tr-subtotal te-al">
+                                        <p><b>￥{$product.price}</b></p>
+                                        </td>
+                                    </tr>
+
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <div class="order-pro-total">
+
+                    <div class="fr wcnhy">
+                        <div class="fzoubddv">
+
+                            <p class="yifje-order">
+                                <span class="p-subtotal-price"> 应付金额：
+                                    <b class="total" id="payables" style="float: right;">¥{$product.price}</b>
+                                </span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="order-action-area te-al-ri">
+                <div class="woypdbe sc-acti-list pa-to-20">
+                    <!--<span class="p-subtotal-price">应付总额：<b>¥<span class="vab" id="payableTotal">2276.00</span></b></span>-->
+                    <input style="padding: 10px 10px;border:0;" class="Sub-orders gwc-qjs" type="submit" value="确认发货" />
+                </div>
+            </div>
+        </div>
+    </div>
+</form> 
+
+
+

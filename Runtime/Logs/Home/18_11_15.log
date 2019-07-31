@@ -1,0 +1,303 @@
+[ 2018-11-15T23:36:26+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001347s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0171s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `comment` WHERE `touserid` = null AND `status` = 0 LIMIT 1   [ RunTime:0.0034s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.0154s ]
+SQL: SELECT * FROM `product` ORDER BY createtime desc LIMIT 4   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0094s ]
+SQL: SELECT * FROM `category`  [ RunTime:0.0003s ]
+SQL: SELECT * FROM `product` WHERE ( category = 1 ) ORDER BY createtime desc LIMIT 7   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `product` WHERE ( category = 2 ) ORDER BY createtime desc LIMIT 7   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `product` WHERE ( category = 3 ) ORDER BY createtime desc LIMIT 7   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `product` WHERE ( category = 4 ) ORDER BY createtime desc LIMIT 7   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `product` WHERE ( category = 5 ) ORDER BY createtime desc LIMIT 7   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001296s ]
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 180 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 181 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 181 行.
+NOTIC: [8] Use of undefined constant style - assumed 'style' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 181 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 181 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 254 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 270 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 286 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 302 行.
+NOTIC: [8] Use of undefined constant goods_id - assumed 'goods_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 318 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 340 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 341 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 341 行.
+NOTIC: [8] Use of undefined constant style - assumed 'style' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 341 行.
+NOTIC: [8] Undefined variable: v C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 341 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 370 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 370 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 373 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 373 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 376 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 376 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 388 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 388 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 391 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 391 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 394 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 394 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 406 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 406 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 409 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 409 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 412 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 412 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 424 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 424 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 427 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 427 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 430 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\8dc81083d09155de6c0a73ab5081e7a0.php 第 430 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032507s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032551s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001215s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001246s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005018s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005069s ]
+
+[ 2018-11-15T23:36:31+08:00 ] 127.0.0.1 /Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0105s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `comment` WHERE `touserid` = null AND `status` = 0 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000547s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000663s ]
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 146 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 146 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 149 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 149 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 152 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 152 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 164 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 164 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 167 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 167 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 170 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 170 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 182 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 182 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 185 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 185 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 188 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 188 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 200 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 200 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 203 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 203 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 206 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\db612667911eb7a78617c580071ad3d8.php 第 206 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001532s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001643s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001708s ]
+
+[ 2018-11-15T23:36:31+08:00 ] 127.0.0.1 /Home/Verifyimg/verifyimg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001043s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001106s ]
+
+[ 2018-11-15T23:36:34+08:00 ] 127.0.0.1 /Home/Product/postproduct
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000637s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001249s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001301s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0088s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `comment` WHERE `touserid` = null AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000030s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000057s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006929s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000959s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001002s ]
+
+[ 2018-11-15T23:36:36+08:00 ] 127.0.0.1 /Home/Product/productlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000904s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0059s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `comment` WHERE `touserid` = null AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.0069s ]
+NOTIC: [8] Undefined index: q C:\phpstudy\WWW\Home\Controller\ProductController.class.php 第 78 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `product` WHERE ( title like "%%" ) LIMIT 1   [ RunTime:0.0006s ]
+NOTIC: [8] Undefined index: q C:\phpstudy\WWW\Home\Controller\ProductController.class.php 第 83 行.
+SQL: SELECT * FROM `product` WHERE ( title like "%%" ) LIMIT 0,10   [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000156s ]
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 145 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 145 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 148 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 148 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 151 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 151 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 163 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 163 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 166 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 166 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 169 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 169 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 181 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 181 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 184 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 184 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 187 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 187 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 199 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 199 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 202 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 202 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 205 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 205 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017579s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000777s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000802s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001223s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
+[ 2018-11-15T23:36:38+08:00 ] 127.0.0.1 /Home/Product/productlist
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000829s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000863s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `comment` WHERE `touserid` = null AND `status` = 0 LIMIT 1   [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `product` [ RunTime:0.0074s ]
+NOTIC: [8] Undefined index: q C:\phpstudy\WWW\Home\Controller\ProductController.class.php 第 78 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `product` WHERE ( title like "%%" ) LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: q C:\phpstudy\WWW\Home\Controller\ProductController.class.php 第 83 行.
+SQL: SELECT * FROM `product` WHERE ( title like "%%" ) LIMIT 0,10   [ RunTime:0.0004s ]
+SQL: SHOW COLUMNS FROM `category` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `category`  [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 145 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 145 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 148 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 148 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 151 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 151 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 163 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 163 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 166 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 166 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 169 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 169 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 181 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 181 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 184 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 184 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 187 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 187 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 199 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 199 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 202 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 202 行.
+NOTIC: [8] Use of undefined constant article_id - assumed 'article_id' C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 205 行.
+NOTIC: [8] Undefined variable: v2 C:\phpstudy\WWW\Runtime\Cache\Home\79d94ca81b754654386db6034572c6ec.php 第 205 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011399s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000983s ]
+

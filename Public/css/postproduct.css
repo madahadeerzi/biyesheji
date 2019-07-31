@@ -1,0 +1,19 @@
+.postproduct label {
+    font-size: 16px;
+    margin: 20px 0 10px 0;
+    font-family: '微软雅黑';
+}
+
+.postproduct .submit {
+    margin-top: 20px;
+}
+
+#userimg {
+    display: none;
+    margin: 10px 0;
+}
+
+.postproduct .submit-img {
+    margin: 10px 0;
+}
+

@@ -1,0 +1,200 @@
+[ 2017-03-29T15:55:16+08:00 ] 127.0.0.1 /Public/Staticic/css/category.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000301s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000388s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Staticic
+
+[ 2017-03-29T15:55:16+08:00 ] 127.0.0.1 /Public/Staticic/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000448s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000481s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Staticic
+
+[ 2017-03-29T15:55:16+08:00 ] 127.0.0.1 /Public/Staticic/css/common.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000444s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Staticic
+
+[ 2017-03-29T15:55:16+08:00 ] 127.0.0.1 /Public/Staticic/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Staticic
+
+[ 2017-03-29T15:55:16+08:00 ] 127.0.0.1 /Public/Staticic/images/qrcode_vmall_app01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000308s ]
+
+[ 2017-03-29T15:55:17+08:00 ] 127.0.0.1 /Public/Staticic/images/qrcode_vmall_app01.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000348s ]
+
+[ 2017-03-29T15:55:46+08:00 ] 127.0.0.1 /Public/Staticic/css/page.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000483s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Staticic
+
+[ 2017-03-29T15:55:46+08:00 ] 127.0.0.1 /Public/Staticic/css/category.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000463s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Staticic
+
+[ 2017-03-29T15:55:46+08:00 ] 127.0.0.1 /Public/Staticic/css/common.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000560s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000608s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Staticic
+
+[ 2017-03-29T15:55:46+08:00 ] 127.0.0.1 /Public/Staticic/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Staticic
+
+[ 2017-03-29T16:00:53+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:01:08+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:02:29+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000312s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000437s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:02:33+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:03:57+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:04:16+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:05:25+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000324s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000415s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000454s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:09:08+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000318s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000384s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:09:21+08:00 ] 127.0.0.1 /Public/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Css
+
+[ 2017-03-29T16:16:17+08:00 ] 127.0.0.1 /Public/Static/images/list/listicon.png?1234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2017-03-29T16:22:59+08:00 ] 127.0.0.1 /Public/Static/images/list/listicon.png?1234
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000297s ]
+
+[ 2017-03-29T16:32:52+08:00 ] 127.0.0.1 /Public/plugins/Ueditor//Public/plugins/Ueditor/php/controller.php?action=config&&noCache=1490776372191
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] A session had already been started - ignoring session_start() C:\phpstudy\WWW\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Plugins
+

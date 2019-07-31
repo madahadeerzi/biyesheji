@@ -1,0 +1,86 @@
+
+<div style="border-bottom: 1px solid #ededed;" class="layout">
+    <div class="logo"><a href="/" title="LOGO"><img src="<?php echo IMG_URL;?>TP-shop_logo.png" alt="LOGO"></a></div>
+</div>
+<div class="register_box box_bg common_box" >
+    <div class="fl register_left">
+        <form action="/Home/User/doreg" onsubmit="return ajaxform(this, '/')" name="registerform" id="registerform">
+        <table class="table">
+            <tr>
+                <td>
+                    用户名
+                </td>
+                <td>
+                    <div>
+                        <input style="width:290px;" class="si-form-field" type="text" name="username" value="" placeholder="请输入用户名" data-rule="required;">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    昵称
+                </td>
+                <td>
+                    <div>
+                        <input style="width:290px;" class="si-form-field" type="text" name="nickname" value="" placeholder="请输入昵称" data-rule="required;">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    密码
+                </td>
+                <td>
+                    <div>
+                        <input style="width:290px;" class="si-form-field" type="password" name="password" value="" placeholder="请输入密码" data-rule="required;password;">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    确认密码
+                </td>
+                <td>
+                    <div>
+                        <input style="width:290px;" class="si-form-field" type="password" name="repassword" value="" placeholder="请再次输入密码" data-rule="required;password;">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    邮箱
+                </td>
+                <td>
+                    <div>
+                        <input style="width:290px;" class="si-form-field" type="text" name="email" value="" placeholder="请输入邮箱" data-rule="required;password;">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <input style="position: relative;top: 2px;" type="checkbox" name="consent"><span class="ml5">我已经阅读并同意</span><a href="" class="c_f8">《用户使用协议》</a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <div class="">
+                        <input class="register_btn" class="btn" type="submit" name="" value="注册">
+                    </div>
+                    <p class="err_msg"></p>
+                </td>
+            </tr>
+        </table>
+        </form>
+    </div>
+    <div class="fr register_right">
+        <p>已有商城账号？</p>
+        <p><a  class="c_f8" href="/Home/User/login.html" title="">直接登录</a></p>
+    </div>
+    <div class="clear"></div>
+</div>

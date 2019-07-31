@@ -1,0 +1,286 @@
+
+<!--头部-->
+<header>
+
+    <div class="layout">
+
+    <!--logo开始-->
+        <div class="logo"><a href="/" title="Logo"><img src="<?php echo IMG_URL;?>TP-shop_logo.png" alt="TPshop"></a></div>
+    <!--logo结束-->
+
+
+        <include file="Home@Index:search"/>
+
+
+
+        <div class="qr-code">
+            <img src="Static/images/qrcode_vmall_app01.png" alt="二维码" />
+            <p>扫一扫</p>
+        </div>
+    </div>
+</header>
+<!--头部-->
+
+<!-- 导航-开始-->
+	<div class="navigation">
+	<div class="layout">
+
+        <div class="ongoods">
+        	<ul class="navlist">
+        		<li class="homepage"><a href="/"><span>首页</span></a></li>
+                <li class="page"><a href="/Home/Product/postproduct" ><span>发布订单</span></a></li>
+                <li class="page"><a href="/Home/Product/productlist" ><span>商品列表</span></a></li>
+
+        	</ul>
+        </div>
+    </div>
+</div>
+<!-- 导航-结束-->
+
+<!-- 首页轮播图片 轮播js 广告-->
+<script src="<?php echo STATIC_JS_URL;?>slider.js"></script>
+<script type="text/javascript">
+	// 首页轮播图片 轮播js 广告
+	$(function() {
+		var bannerSlider = new Slider($('#banner_tabs'), {
+			time: 5000,
+			delay: 400,
+			event: 'hover',
+			auto: true,
+			mode: 'fade',
+			controller: $('#bannerCtrl'),
+			activeControllerCls: 'active'
+		});
+		$('#banner_tabs .flex-prev').click(function() {
+			bannerSlider.prev()
+		});
+		$('#banner_tabs .flex-next').click(function() {
+			bannerSlider.next()
+		});
+	})
+</script>
+<!-- 首页轮播图片 轮播js 广告 end-->
+
+
+<!--热卖-首发-新闻-公告-开始-->
+<div class="layout">
+	<div class="bs-le">
+    	<div class="first">
+        	<ul>
+                <volist name="first" id="vo">
+                    <li class="sellers">
+                        <div class="best">
+                            <div class="best-about">
+                                <div class="best_img" style="margin-top:50px; height:220px;">
+                                    <a href="/Home/Product/showproduct?productid={$vo.productid}"><img src="{$vo.img}" style="width:180px; height:180px;"/></a>
+                                </div>
+                                <div class="best_name">
+                                    <a href="/Home/Product/showproduct?productid={$vo.productid}">
+                                        <span>{$vo.title}</span>
+                                    </a>
+                                </div>
+                                <div class="best_Introduction">
+                                    <div class="intr-t">{:mb_substr(strip_tags($vo['introduction']),0,32)}</div>
+                                </div>
+                                <div class="price">
+                                    <em>￥{$vo.price}</em>
+                                </div>
+                                <div class="imm-button">
+                                    <a href="/Home/Product/showproduct?productid={$vo.productid}"><span>立即抢购</span></a>
+                                </div>
+
+                            </div>
+                        </div>
+                    </li>
+                </volist>
+
+
+        	</ul>
+        </div>
+    </div>
+
+</div>
+<!--热卖-首发-新闻-公告-结束-->
+
+<!--中部banner-开始-->
+<div class="layout">
+	<div class="cen-banne">
+        <adv  pid = "3" limit="1" item="v">            
+	        <a href="{$v['ad_link']}">
+    	        <img src="/Public/images/banner4.jpg" width="1200" height="160"  title="{$v[title]}" style="{$v[style]}"/>
+            </a>    
+         </adv>   
+    </div>
+</div>
+<!--中部banner-结束-->
+
+<!--楼层-开始-->
+<volist name="category" id="vo">
+    <div class="layout layer">
+        <div class="ground-flool">
+            <div class="flool-t">
+                <h2><a href="">{$vo.category}</a></h2>
+                <em>{$vo.description}</em>
+                <ul><!--
+				<li><a href="{:U('/Home/Goods/goodsList',array('brand_id'=>1))}">诺基亚</a></li>
+                -->
+                </ul>
+            </div>
+            <div class="flool-b layer">
+                <ul class="flool-cle">
+                    <volist name="vo.products" id="voo">
+                        <if condition="$i eq 1 ">
+                            <li class="sellers sell_ons">
+                                <div class="best">
+                                    <div class="best-about">
+                                        <div class="best_img best_img2">
+                                            <a href="/Home/Product/showproduct?productid={$voo.productid}">
+                                                <img src="{$voo.img}" />
+                                            </a>
+                                        </div>
+                                        <div class="best_name">
+                                            <a href="/Home/Product/showproduct?productid={$voo.productid}">
+                                                <span>{$voo.title}</span>
+                                            </a>
+                                        </div>
+                                        <div class="best_Introduction">
+                                            <div class="intr-t">{:mb_substr(strip_tags($voo['introduction']),0,32)}</div>
+
+                                        </div>
+                                        <div class="price">
+                                            <span>¥</span> <em>{$voo.price}</em>
+                                        </div>
+                                        <div class="imm-button">
+                                            <a href="/Home/Product/showproduct?productid={$voo.productid}">
+                                                <span>立即抢购</span>
+                                            </a>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </li>
+                            <else />
+                            <li class="sellers sellers2 sell_ons">
+                                <div class="best">
+                                    <div class="best-about">
+                                        <div class="best_img best_img2 best_img3">
+                                            <a href="/Home/Product/showproduct?productid={$voo.productid}"><img src="{$voo.img}" /></a>
+                                        </div>
+                                        <div class="intr-t intr-t3">{$voo.title}</div>
+                                        <div class="price prices">
+                                            <a href="/Home/Product/showproduct?productid={$voo.productid}" class="price prices">
+                                                <span>¥</span><em>{$voo.price}</em>
+                                            </a>
+                                        </div>
+                                        <div class="tag">
+                                            <!--<img src="__STATIC__/images/1382593860805.png" alt="首发" />-->
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </if>
+
+
+                    </volist>
+
+                    <!--<li class="sellers sellers2 sell_ons">-->
+                        <!--<div class="best">-->
+                            <!--<div class="best-about">-->
+                                <!--<div class="best_img best_img2 best_img3">-->
+                                    <!--<a href="{:U('/Home/Goods/goodsInfo',array('id'=>$v[goods_id]))}"><img src="/Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg" /></a>-->
+                                <!--</div>-->
+                                <!--<div class="intr-t intr-t3">Apple iPhone 6s Pl...</div>-->
+                                <!--<div class="price prices">-->
+                                    <!--<span>¥</span><em>1999</em>-->
+                                <!--</div>-->
+                                <!--<div class="tag">-->
+                                    <!--&lt;!&ndash;<img src="__STATIC__/images/1382593860805.png" alt="首发" />&ndash;&gt;-->
+                                <!--</div>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                    <!--</li>-->
+                    <!--<li class="sellers sellers2 sell_ons">-->
+                        <!--<div class="best">-->
+                            <!--<div class="best-about">-->
+                                <!--<div class="best_img best_img2 best_img3">-->
+                                    <!--<a href="{:U('/Home/Goods/goodsInfo',array('id'=>$v[goods_id]))}"><img src="/Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg" /></a>-->
+                                <!--</div>-->
+                                <!--<div class="intr-t intr-t3">Apple iPhone 6s Pl...</div>-->
+                                <!--<div class="price prices">-->
+                                    <!--<span>¥</span><em>1999</em>-->
+                                <!--</div>-->
+                                <!--<div class="tag">-->
+                                    <!--&lt;!&ndash;<img src="__STATIC__/images/1382593860805.png" alt="首发" />&ndash;&gt;-->
+                                <!--</div>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                    <!--</li>-->
+                    <!--<li class="sellers sellers2 sell_ons">-->
+                        <!--<div class="best">-->
+                            <!--<div class="best-about">-->
+                                <!--<div class="best_img best_img2 best_img3">-->
+                                    <!--<a href="{:U('/Home/Goods/goodsInfo',array('id'=>$v[goods_id]))}"><img src="/Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg" /></a>-->
+                                <!--</div>-->
+                                <!--<div class="intr-t intr-t3">Apple iPhone 6s Pl...</div>-->
+                                <!--<div class="price prices">-->
+                                    <!--<span>¥</span><em>1999</em>-->
+                                <!--</div>-->
+                                <!--<div class="tag">-->
+                                    <!--&lt;!&ndash;<img src="__STATIC__/images/1382593860805.png" alt="首发" />&ndash;&gt;-->
+                                <!--</div>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                    <!--</li>-->
+                    <!--<li class="sellers sellers2 sell_ons">-->
+                        <!--<div class="best">-->
+                            <!--<div class="best-about">-->
+                                <!--<div class="best_img best_img2 best_img3">-->
+                                    <!--<a href="{:U('/Home/Goods/goodsInfo',array('id'=>$v[goods_id]))}"><img src="/Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg" /></a>-->
+                                <!--</div>-->
+                                <!--<div class="intr-t intr-t3">Apple iPhone 6s Pl...</div>-->
+                                <!--<div class="price prices">-->
+                                    <!--<span>¥</span><em>1999</em>-->
+                                <!--</div>-->
+                                <!--<div class="tag">-->
+                                    <!--&lt;!&ndash;<img src="__STATIC__/images/1382593860805.png" alt="首发" />&ndash;&gt;-->
+                                <!--</div>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                    <!--</li>-->
+                    <!--<li class="sellers sellers2 sell_ons">-->
+                        <!--<div class="best">-->
+                            <!--<div class="best-about">-->
+                                <!--<div class="best_img best_img2 best_img3">-->
+                                    <!--<a href="{:U('/Home/Goods/goodsInfo',array('id'=>$v[goods_id]))}"><img src="/Public/upload/goods/thumb/45/goods_thumb_45_222_222.jpeg" /></a>-->
+                                <!--</div>-->
+                                <!--<div class="intr-t intr-t3">Apple iPhone 6s Pl...</div>-->
+                                <!--<div class="price prices">-->
+                                    <!--<span>¥</span><em>1999</em>-->
+                                <!--</div>-->
+                                <!--<div class="tag">-->
+                                    <!--&lt;!&ndash;<img src="__STATIC__/images/1382593860805.png" alt="首发" />&ndash;&gt;-->
+                                <!--</div>-->
+                            <!--</div>-->
+                        <!--</div>-->
+                    <!--</li>-->
+                </ul>
+            </div>
+        </div>
+    </div>
+</volist>
+
+
+<!--底部banner-开始-->
+	<div class="layout layer">
+    	<div class="cen-banne">
+            <adv  pid = "4" limit="1" item="v">            
+    	        <a href="{$v['ad_link']}">
+        	        <img src="/Public/upload/ad/2016/03-11/56e29344381c4.jpg" width="1200" height="160" title="{$v[title]}" style="{$v[style]}"/>
+	            </a>    
+             </adv>            
+        </div>
+    </div>
+<!--底部banner-结束-->
+<!--楼层-结束-->
+
+<!--footer开始-->

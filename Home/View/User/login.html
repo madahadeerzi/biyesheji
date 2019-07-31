@@ -1,0 +1,67 @@
+
+
+
+<div style="border-bottom: 1px solid #ededed;" class="layout">
+    <div class="logo"><a href="/" title="TPshop"><img src="<?php echo IMG_URL;?>TP-shop_logo.png" alt="TPshop"></a></div>
+</div>
+<div class="register_box box_bg common_box" style="min-height: 230px;margin-bottom: 110px;">
+    <div class="fl register_left">
+        <form action="/Home/User/dologin" onsubmit="return ajaxform(this, '/')" name="registerform" id="registerform">
+        <!--<form action="/Home/User/dologin"  name="registerform" id="registerform" method="post">-->
+        <table class="table">
+            <tr>
+                <td>
+                    账号
+                </td>
+                <td>
+                    <div>
+                        <input style="width:290px;" class="si-form-field" type="text" name="username" value="" placeholder="请输入用户名" data-rule="required;mobile;">
+                    </div>
+                </td>
+            </tr>
+            
+            <tr>
+                <td>
+                    密码
+                </td>
+                <td>
+                    <div>
+                        <input style="width:290px;" class="si-form-field" type="password" name="password" value="" placeholder="请输入密码" data-rule="required;password;">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    验证码
+                </td>
+                <td>
+                    <div class="dib">
+                        <input style="width:184px;" class="si-form-field" type="text" name="verycode" value="" placeholder="验证码" data-rule="required;captcha6;">
+                    </div>
+                    <div class="dib fr">
+                        <img style="" src="/Home/Verifyimg/verifyimg" width="102" height="38" onclick="this.src='/Home/Verifyimg/verifyimg/'+Math.random()" alt="">
+                    </div>
+                </td>
+            </tr>
+            <tr>
+                <td>
+
+                </td>
+                <td>
+                    <div class="">
+                        <input class="register_btn" class="btn" type="submit" name="" value="登录">
+                    </div>
+                    <p class="err_msg"></p>
+                </td>
+            </tr>
+        </table>
+        </form>
+    </div>
+    <div class="fr register_right">
+        <p>没有商城账号？</p>
+        <p><a  class="c_f8" href="/Home/User/register.html" title="">马上注册</a></p>
+        <br>
+        <p><a class="c_f8" href="/Home/User/forget">忘记密码?</a></p>
+    </div>
+    <div class="clear"></div>
+</div>

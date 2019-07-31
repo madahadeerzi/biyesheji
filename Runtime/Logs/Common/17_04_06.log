@@ -1,0 +1,24 @@
+[ 2017-04-06T10:37:52+08:00 ] 127.0.0.1 /product/updateproduct
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Product
+
+[ 2017-04-06T10:38:03+08:00 ] 127.0.0.1 /product/updateproduct
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+ERR: 无法加载模块:Product
+
+[ 2017-04-06T10:38:34+08:00 ] 127.0.0.1 /product/updateproduct
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+ERR: 无法加载模块:Product
+
+[ 2017-04-06T10:38:34+08:00 ] 127.0.0.1 /product/updateproduct
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+ERR: 无法加载模块:Product
+

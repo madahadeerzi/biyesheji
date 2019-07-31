@@ -1,0 +1,24 @@
+[ 2017-03-30T10:38:18+08:00 ] 127.0.0.1 /biyesheji2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 无法加载模块:Biyesheji2
+
+[ 2017-03-30T15:32:43+08:00 ] 192.168.1.143 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-03-30T15:33:19+08:00 ] 192.168.1.143 /product
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000314s ]
+ERR: 无法加载模块:Product
+
+[ 2017-03-30T16:06:35+08:00 ] 127.0.0.1 /biyesheji2/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Biyesheji2
+

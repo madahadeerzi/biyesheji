@@ -1,0 +1,20 @@
+[ 2017-05-10T20:43:41+08:00 ] 127.0.0.1 /Public/images/banner4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000382s ]
+
+[ 2017-05-10T20:43:41+08:00 ] 127.0.0.1 /Public/images/banner4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+
+[ 2017-05-10T20:44:32+08:00 ] 127.0.0.1 /Public/images/banner4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-05-10T20:44:32+08:00 ] 127.0.0.1 /Public/images/banner4.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+

@@ -1,0 +1,39 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.bottom{
+	height: 40px;
+	width: 100%;
+	display: block;
+	margin-top: 100px;
+	background-color: #f5f5f5;
+	position:absolute;
+	bottom:0;
+}
+.bottom .leftlist{
+	height: 40px;
+	float: left;
+}
+.bottom .rightlist{
+	height:40px;
+	float: right;
+}
+ul{
+	height: 100%;
+	line-height: 40px;
+}
+li{
+	list-style: none;
+	float: left;
+	margin-left: 16px;
+}
+.bottom a{
+	color:#6C6C6C;
+	font-size: 12px;
+	text-decoration: none;
+}
+.bottom a:hover{
+	color: #f22e00;
+	text-decoration: none;
+}

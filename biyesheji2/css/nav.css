@@ -1,0 +1,36 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	height: 40px;
+	width: 100%;
+	display: block;
+	margin-bottom: 10px;
+	background-color: #f5f5f5;
+}
+.container .leftlist{
+	height: 40px;
+	float: left;
+}
+.container .rightlist{
+	height:40px;
+	float: right;
+}
+ul{
+	height: 100%;
+	line-height: 40px;
+}
+li{
+	list-style: none;
+	float: left;
+	margin-left: 16px;
+}
+.container a{
+	color:#6C6C6C;
+	text-decoration: none;
+}
+.container a:hover{
+	color: #f22e00;
+	text-decoration: none;
+}

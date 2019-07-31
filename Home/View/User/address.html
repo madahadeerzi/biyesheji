@@ -1,0 +1,89 @@
+<include file='Home@User:public' />
+
+
+    <div class="order-address-list address_current" style="    width: 900px;
+    float: left;
+    margin: 0 10px;">
+        <table width="100%" cellspacing="0" cellpadding="0" border="1" class="address">
+            <tbody>
+            <volist name="address" id="vo">
+            <tr>
+                <!--<input type="hidden" value="{$vo.addressid}" id="edit">-->
+                <td width="60" class="address_id" align="center">
+                    <input type="radio" data-province-id="338" data-city-id="339" data-district-id="340" name="address_id" value="2" checked="checked"></td>
+                <td width="160" class="consignee"> <b>收货人:{$vo.buyname}</b>
+                </td>
+                <td width="460" class="address2">
+                    <span>地址:{$vo.address}</span>
+                </td>
+                <td width="200" class="mobile">
+                    <span>电话：{$vo.buyphone}</span>
+                </td>
+                <td width="60" class="wi100">
+                    <span>默认地址</span>
+                </td>
+                <td width="60" class="wi100">
+                                        <span>
+                                            <a onclick="editaddress({$vo.addressid});">修改</a>
+                                        </span>
+                </td>
+                <td>
+                    <a onclick="deladdress({$vo.addressid});">
+                        <div class="gwc-gb ma-ri-20"></div>
+                    </a>
+                </td>
+            </tr>
+            </volist>
+            <tr id="newaddress">
+                <td><input type="hidden" value="" name="addressid"></td>
+                <td><input type="text" placeholder="请输入你的收货人姓名" name="name"></td>
+                <td><input type="text" placeholder="请输入你的地址" name="address"></td>
+                <td><input type="text" placeholder="请输入你的电话" name="phone"></td>
+                <td><input type="submit" value="添加新地址" onclick="newaddress()"></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+<script>
+    function newaddress(){
+        var $newaddress = $('#newaddress');
+        $.post('/Home/User/editaddress', {
+            'addressid': $newaddress.find('[name="addressid"]').val(),
+            'buyname': $newaddress.find('[name="name"]').val(),
+            'address': $newaddress.find('[name="address"]').val(),
+            'buyphone': $newaddress.find('[name="phone"]').val(),
+        }, function(data){
+            if (data.error)  {
+                layer.alert(data.error);
+            }else{
+                location.reload();
+            }
+        }, 'json');
+    }
+
+    function editaddress(id) {
+        $.get('/Home/User/getaddress?id='+id, function (data) {
+            var $newaddress = $('#newaddress');
+
+            $newaddress.find('[name="addressid"]').val(data.addressid);
+            $newaddress.find('[name="name"]').val(data.buyname);
+            $newaddress.find('[name="address"]').val(data.address);
+            $newaddress.find('[name="phone"]').val(data.buyphone);
+            $newaddress.find('[type="submit"]').val('修改');
+        }, 'json');
+    }
+
+    function deladdress(id) {
+        layer.confirm('是否删除', function() {
+            $.get('/Home/User/deladdress?id='+id, function (data) {
+                if (data.error)  {
+                    layer.alert(data.error);
+                }else{
+                    location.reload();
+                }
+            }, 'json');
+        });
+
+    }
+</script>

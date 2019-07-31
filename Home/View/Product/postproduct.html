@@ -1,0 +1,74 @@
+<link rel="stylesheet" href="/Public/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/Public/css/postproduct.css">
+
+<div class="postproduct" style="width: 1200px; margin: auto">
+    <h1>发布页面</h1>
+    <label>图片</label>
+    <br>
+    <img id="userimg" src="" width="400">
+    <br>
+    <form name="form1" id="form1">
+        <input type="file" name="photo" id="photo">
+        <p><input type="button" class="btn btn-info submit-img" name="b1" value="上传图片" onclick="fsubmit()"></p>
+    </form>
+    <form action="/Home/Product/dopost"  onsubmit="return ajaxform(this, '/')" method="post" accept-charset="utf-8" >
+        <label>标题:</label>
+        <input type="text" name="title" id="title" placeholder="请输入你的标题" class="form-control">
+        <label>价格：</label>
+        <input type="number" name="price" id="price" placeholder="请输入你的价格" class="form-control">
+        <label>类别</label>
+        <select name="category"  class="form-control">
+            <volist name="category" id="vo">
+                <option value="{$vo.id}">{$vo.category}</option>
+            </volist>
+            <!--<option value="1">电子产品</option>-->
+            <!--<option value="2">生活用品</option>-->
+            <!--<option value="3">情趣用品</option>-->
+            <!--<option value="4">二手书本</option>gd-->
+        </select>
+        <label>产品介绍:</label>
+        <!-- 加载编辑器的容器 -->
+        <script id="introduction" name="introduction" type="text/plain" style="height:300px;"></script>
+        <!-- 配置文件 -->
+        <script type="text/javascript" src="/Public/plugins/Ueditor/ueditor.config.js"></script>
+        <!-- 编辑器源码文件 -->
+        <script type="text/javascript" src="/Public/plugins/Ueditor/ueditor.all.js"></script>
+        <!-- 实例化编辑器 -->
+        <script type="text/javascript">
+            var ue = UE.getEditor('introduction');
+        </script>
+        <!--<textarea placeholder="请输入你的介绍" rows="50" cols="100" name="introduction" class="form-control"></textarea>-->
+        <label>联系人:</label>
+        <input type="text" name="contacts" id="contacts" placeholder="输入你的姓名" class="form-control">
+        <label>联系方式:</label>
+        <input type="text" name="phone" id="phone" placeholder="输入你的联系号码" class="form-control">
+        <br>
+        <input type="hidden" id="imgurl" name="img" value="">
+        <input type="submit"  value="确认提交" class="btn btn-warning submit">
+    </form>
+    <br>
+
+
+
+</div>
+
+<script type="text/javascript">
+    function fsubmit() {
+        var form=document.getElementById("form1");
+        var formData=new FormData(form);
+        var oReq = new XMLHttpRequest();
+        oReq.onreadystatechange=function(){
+            if(oReq.readyState==4){
+                if(oReq.status==200){
+                    var json=JSON.parse(oReq.responseText);
+                    $("#userimg").attr("src","/Public/userimg/"+json['photo']).show();
+                    $("#imgurl").val('/Public/userimg/'+json['photo']);
+
+                }
+            }
+        }
+        oReq.open("POST", "/Home/product/dopostimg");
+        oReq.send(formData);
+        return false;
+    }
+</script>
